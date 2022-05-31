@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahez69
-- 👀 I’m interested in Data Science Projects
+- 👀 I’m interested in Data Science Projects and Interninships
 - 🌱 I’m currently learning Deep Learning
 - 📫 Reach me at gg533@snu.edu.in
 
