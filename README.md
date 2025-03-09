@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mahez69
-- 👀 I’m interested in Data Science Projects and Interninships
-- 🌱 I’m currently learning Deep Learning
-- 📫 Reach me at gg533@snu.edu.in
+- 👋 Hi, I’m @mahez69 currently working as Data Analyst
+- 👀 I’m interested Data Science Projects
+- 🌱 I’m currently updating my learnings to Deep Learning and NLP
+- 📫 Reach me at maheshgeccentric69@gmail.com
 
 <!---
 mahez69/mahez69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
